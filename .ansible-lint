@@ -15,7 +15,7 @@ exclude_paths:
   - 'playbooks/install_configure.yml'
   - 'aap_configuration_template/playbooks/install_configure.yml'
 
-parseable: true
+# parseable: true
 # quiet: true
 # strict: true
 verbosity: 1
